@@ -25,8 +25,8 @@ public class Resort_Management_System {
     public static void menu() {
 
         System.out.println("\n======================================================");
-        System.out.println("|               Resort Management System             |");
-        System.out.println("|                 ( BY : Siday Kumar )               |");
+        System.out.println("|             Resort Management System               |");
+        System.out.println("|            ( BY : Avinash Kumar Singh )            |");
         System.out.println("======================================================\n");
         System.out.println("* Option 'V'  - View all rooms");
         System.out.println("* Option 'CI' - Check in");
